@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hey, I'm Valentin Walendy
 
-<!--
-**vwalendy/vwalendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a second-year Computer Science student at **EPFL (École Polytechnique Fédérale de Lausanne)**.  
+My focus lies in **data analytics**, **computational modeling**, and **algorithmic problem-solving**,  
+with a particular interest in the intersection between **quantitative research** and **software design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Beyond my studies
+
+Alongside my Bachelor’s program, I continuously expand my skills through additional projects.  
+- 🧠 **Hackathons** — Participant in the **Meta Hacker Cup**, and upcoming participation at **QuantMinds London**.  
+- 🤝 **Collaboration with TUM (Munich)** — Working on projects in the field of **Artificial Intelligence**.  
+
+---
+
+### 🚀 Featured Projects
+
+- 🚄 [**ReChor**](https://github.com/vwalendy/ReChor): A Swiss public transport route planner built with JavaFX  
+- 🔥 **Water and Fire** *(coming soon)* — A 2-player cooperative puzzle game  
+- 🎵 **MultiJam** *(coming soon)*  
+
+---
+
+### 🧠 Core Competencies
+
+Functional Programming • Software Architecture • Algorithmic Thinking •  
+GUI Design (JavaFX) • Data Processing  
+
+---
+
+### 🧰 Tech Stack
+
+`Java` • `JavaFX` • `JavaScript` • `Python` • `C` • `Scala` • `Assembler (RISC-V)` • `Verilog` • `Mathematica`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vwalendy&show_icons=true&theme=tokyonight" alt="Valentin's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwalendy&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+📧 [vwalendy@gmail.com](mailto:vwalendy@gmail.com)  
+📧 [valentin.walendy@epfl.ch](mailto:valentin.walendy@epfl.ch)  
+📍 Lausanne, Switzerland  
+
+---
+
+> “Bridging analytical thinking with creative software design.”
