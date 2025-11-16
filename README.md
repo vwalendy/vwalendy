@@ -51,4 +51,4 @@ GUI Design (JavaFX) • Data Processing
 
 ---
 
-> “Bridging analytical thinking with creative software design.”
+
