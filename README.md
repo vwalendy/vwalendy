@@ -18,7 +18,8 @@ Alongside my Bachelor’s program, I continuously expand my skills through addit
 
 - 🚄 [**ReChor**](https://github.com/vwalendy/ReChor): A Swiss public transport route planner built with JavaFX  
 - 🔥 **Water and Fire** *(coming soon)* — A 2-player cooperative puzzle game  
-- 🎵 **MultiJam** *(coming soon)*  
+- 🎵 **MultiJam** *(coming soon)*
+- 🎓 **UniGuessr** *(online multiplayer)* — A campus-location guessing game inspired by GeoGuessr, built with **Scala**, **SBT**, and **Play Framework**
 
 ---
 
