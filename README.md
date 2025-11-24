@@ -9,7 +9,7 @@ with a particular interest in the intersection between **quantitative research**
 ### 🧩 Beyond my studies
 
 Alongside my Bachelor’s program, I continuously expand my skills through additional projects.  
-- 🧠 **Hackathons** — Participant in the **Meta Hacker Cup**, and upcoming participation at **QuantMinds London**.  
+- 🧠 Hackathons — Meta Hacker Cup & [QuantMinds London 2025](https://github.com/ahubler01/quantminds_2025) (mitigating cognitive biases in AI)  
 - 🤝 **Collaboration with TUM (Munich)** — Working on projects in the field of **Artificial Intelligence**.  
 
 ---
