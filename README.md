@@ -17,7 +17,8 @@ Alongside my Bachelor’s program, I continuously expand my skills through addit
 ### 🚀 Featured Projects
 
 - 🚄 [**ReChor**](https://github.com/vwalendy/ReChor): A Swiss public transport route planner built with JavaFX  
-- 🔥 [**ICoop — Fire and Water**](https://github.com/vwalendy/ICoop): A 2-player cooperative puzzle game    
+- 🔥 [**ICoop — Fire and Water**](https://github.com/vwalendy/ICoop): A 2-player cooperative puzzle game
+- ⚖️ [**AI Bias Classifier**](https://github.com/vwalendy/IA-Bias-Classifier): Full-stack web app (FastAPI + Next.js) that compares multiple LLMs (OpenAI, Anthropic, etc.) and quantifies their biases through an interactive dashboard  
 - 🎵 **MultiJam** *(coming soon)*
 - 🎓 **UniGuessr** *(online multiplayer)* — A campus-location guessing game inspired by GeoGuessr, built with **Scala**, **SBT**, and **Play Framework**
 
